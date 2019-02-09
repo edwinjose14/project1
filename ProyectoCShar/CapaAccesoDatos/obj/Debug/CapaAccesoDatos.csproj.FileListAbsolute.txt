@@ -1,0 +1,9 @@
+E:\ProyectoCShar\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojAssemblyReference.cache
+E:\ProyectoCShar\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+E:\ProyectoCShar\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+E:\ProyectoCShar\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+E:\ProyectoCShar\CapaAccesoDatos\bin\Debug\CapaEntidad.dll
+E:\ProyectoCShar\CapaAccesoDatos\bin\Debug\CapaEntidad.pdb
+E:\ProyectoCShar\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+E:\ProyectoCShar\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+E:\ProyectoCShar\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb

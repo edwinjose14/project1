@@ -1,0 +1,101 @@
+C:\Users\GERALDIN\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\GERALDIN\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\GERALDIN\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\GERALDIN\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\GERALDIN\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\CapaPresentacion\obj\Debug\CapaPresentacion.FormMenuPrincipal.resources
+C:\Users\GERALDIN\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\CapaPresentacion\obj\Debug\CapaPresentacion.FormEstilista.resources
+C:\Users\GERALDIN\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\GERALDIN\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\GERALDIN\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\GERALDIN\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\GERALDIN\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\GERALDIN\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\CapaPresentacion\obj\Debug\CapaPresentacion.FormCliente.resources
+C:\Users\GERALDIN\Documents\Visual Studio 2017\Projects\ProyectoCShar\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\GERALDIN\Documents\Visual Studio 2017\Projects\ProyectoCShar\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\GERALDIN\Documents\Visual Studio 2017\Projects\ProyectoCShar\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\GERALDIN\Documents\Visual Studio 2017\Projects\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\GERALDIN\Documents\Visual Studio 2017\Projects\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.FormCliente.resources
+C:\Users\GERALDIN\Documents\Visual Studio 2017\Projects\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.FormFactProducto.resources
+C:\Users\GERALDIN\Documents\Visual Studio 2017\Projects\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.FormMenuPrincipal.resources
+C:\Users\GERALDIN\Documents\Visual Studio 2017\Projects\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.FormEstilista.resources
+C:\Users\GERALDIN\Documents\Visual Studio 2017\Projects\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.FormProducto.resources
+C:\Users\GERALDIN\Documents\Visual Studio 2017\Projects\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.FormProveedor.resources
+C:\Users\GERALDIN\Documents\Visual Studio 2017\Projects\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\GERALDIN\Documents\Visual Studio 2017\Projects\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\GERALDIN\Documents\Visual Studio 2017\Projects\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\GERALDIN\Documents\Visual Studio 2017\Projects\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\GERALDIN\Documents\Visual Studio 2017\Projects\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\GERALDIN\Documents\Visual Studio 2017\Projects\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.FormFactServicio.resources
+C:\Users\GERALDIN\Documents\Visual Studio 2017\Projects\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.FormVentas.resources
+D:\ProyectoCShar\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\ProyectoCShar\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\ProyectoCShar\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+D:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.FormCliente.resources
+D:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.FormFactProducto.resources
+D:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.FormFactServicio.resources
+D:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.FormMenuPrincipal.resources
+D:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.FormEstilista.resources
+D:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.FormProducto.resources
+D:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.FormProveedor.resources
+D:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.FormServicios.resources
+D:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.FormVentas.resources
+D:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+G:\ProyectoCShar\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+G:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+G:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+G:\ProyectoCShar\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+G:\ProyectoCShar\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+G:\ProyectoCShar\CapaPresentacion\bin\Debug\MetroFramework.Design.dll
+G:\ProyectoCShar\CapaPresentacion\bin\Debug\MetroFramework.dll
+G:\ProyectoCShar\CapaPresentacion\bin\Debug\MetroFramework.Fonts.dll
+G:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+G:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.FormCliente.resources
+G:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.FormFactProducto.resources
+G:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.FormFactServicio.resources
+G:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.FormMenuPrincipal.resources
+G:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.FormEstilista.resources
+G:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.FormProducto.resources
+G:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.FormProveedor.resources
+G:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.FormServicios.resources
+G:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.FormVentas.resources
+G:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+G:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+D:\ProyectoCShar\CapaPresentacion\bin\Debug\MetroFramework.Design.dll
+D:\ProyectoCShar\CapaPresentacion\bin\Debug\MetroFramework.dll
+D:\ProyectoCShar\CapaPresentacion\bin\Debug\MetroFramework.Fonts.dll
+D:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.FormLogin.resources
+E:\ProyectoCShar\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+E:\ProyectoCShar\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+E:\ProyectoCShar\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+E:\ProyectoCShar\CapaPresentacion\bin\Debug\MetroFramework.Design.dll
+E:\ProyectoCShar\CapaPresentacion\bin\Debug\MetroFramework.dll
+E:\ProyectoCShar\CapaPresentacion\bin\Debug\MetroFramework.Fonts.dll
+E:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+E:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.FormCliente.resources
+E:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.FormFactProducto.resources
+E:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.FormFactServicio.resources
+E:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.FormLogin.resources
+E:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.FormMenuPrincipal.resources
+E:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.FormEstilista.resources
+E:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.FormProducto.resources
+E:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.FormProveedor.resources
+E:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.FormServicios.resources
+E:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.FormVentas.resources
+E:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+E:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+E:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+E:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+E:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+E:\ProyectoCShar\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+E:\ProyectoCShar\CapaPresentacion\bin\Debug\CapaEntidad.dll
+E:\ProyectoCShar\CapaPresentacion\bin\Debug\CapaNegocios.dll
+E:\ProyectoCShar\CapaPresentacion\bin\Debug\CapaAccesoDatos.dll
+E:\ProyectoCShar\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+E:\ProyectoCShar\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+E:\ProyectoCShar\CapaPresentacion\bin\Debug\CapaAccesoDatos.pdb
